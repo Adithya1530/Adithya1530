@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Adithya</h1>
 
-<div style="margin: 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=800&color=04E0BB&lines=Full+Stack+Java+Developer+🚀;Tech+Explorer+💡;" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=800&color=04E0BB&lines=Full+Stack+Java+Developer+🚀;Tech+Explorer+💡;" alt="Typing SVG" />
 
 <h3 style="margin-top: 0;">A passionate Java Full Stack Developer from India 🇮🇳</h3>
 
